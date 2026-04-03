@@ -1,0 +1,23 @@
+exploretags:
+  name: ExploreTags
+  title: ExploreTags Master
+  url: https://www.exploretags.com
+  image_url: https://github.com/exploretags.png
+  page: true
+    # customize the url of the author page at /blog/authors/<permalink>
+  socials:
+    instagram: exploretags_com
+    website: https://www.exploretags.com
+
+kdchang:
+  name: KD Chang
+  title: Founder of ExploreTags
+  url: https://www.kdchang.net
+  image_url: https://github.com/kdchang.png
+  page: true
+    # customize the url of the author page at /blog/authors/<permalink>
+  socials:
+    x: kaidichang
+    github: kdchang
+    instagram: kdchang_net
+    website: https://www.kdchang.net
