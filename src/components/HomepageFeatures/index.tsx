@@ -146,7 +146,7 @@ export default function HomepageFeatures(): ReactNode {
         <div className="container">
           <div className={styles.featuresPreamble}>
             <span className="ct-section-badge">核心優勢</span>
-            <Heading as="h2">為何選擇 ExploreTags？</Heading>
+            <Heading as="h2">什麼是 ExploreTags？</Heading>
           </div>
           <div className="row">
             {FeatureList.map((props, idx) => (
