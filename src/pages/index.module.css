@@ -44,7 +44,7 @@
 
 /* Warm amber/gold gradient clip title */
 .heroBanner :global(.hero__title) {
-  background: linear-gradient(135deg, #f0ece6 20%, #ffd700 60%, #f0a420 100%);
+  background: #fff;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
