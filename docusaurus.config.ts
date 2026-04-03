@@ -123,7 +123,7 @@ const config: Config = {
         { to: "/about", label: "關於我們", position: "left" },
         {
           href: "https://facebook.com/groups/exploretags",
-          label: "漫旅書籤交流社群",
+          label: "漫旅人交流社群",
           position: "left",
         },
         {
@@ -158,7 +158,7 @@ const config: Config = {
           title: "旅人社群",
           items: [
             {
-              label: "Facebook 漫旅書籤交流社群",
+              label: "Facebook 漫旅人交流社群",
               href: "https://facebook.com/groups/exploretags",
             },
             {
