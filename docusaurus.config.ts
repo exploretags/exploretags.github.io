@@ -194,7 +194,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ExploreTags 漫旅書籤, Inc. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ExploreTags 漫旅書籤, Inc. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,
